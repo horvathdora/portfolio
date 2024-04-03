@@ -5,7 +5,6 @@
 ## Education
 - MSc, Computer Science | Budapest University of Technology and Economics (_June 2023_)
 - BSc, Computer Science | Budapest University of Technology and Economics (_January 2021_)
-- 
 ## Work Experience
 **Software Engineer Intern @ Cloudera (_June 2021 - September 2023_)**
 - Contributed to the development and maintenance of large-scale software enhancing system performance and stability.
