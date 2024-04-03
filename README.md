@@ -4,8 +4,8 @@
 
 ## Education
 
-| Computer Science | MSc | Budapest University of Technology and Economics | (_June 2023_)
-| Computer Science | BSc | Budapest University of Technology and Economics | (_January 2021_)
+| Computer Science, MSc | Budapest University of Technology and Economics | (_June 2023_) |
+| Computer Science, BSc | Budapest University of Technology and Economics | (_January 2021_) |
 
 ## Work Experience
 
