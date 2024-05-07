@@ -17,10 +17,14 @@
 
 **Software Engineer Intern @ IRF Solutions KFT.** 
 (_June 2020 - November 2020_)
-- Developed a new content management system in Spring Boot based on technical specifications.
+- Developed a new content management system in Spring Boot following technical specifications.
 - Enhanced code maintainability and flexibility by transitioning the business logic from SQL-stored procedures to Java code.
 
 ## Projects
 
+**Prediction of survival and postoperative condition of heart transplant patients**
+- Analysed and cleaned medical datasets containing clinical measurements.
+- Built and compared classification models that could support the medical community in the desicion-making process.
+  
 **Online Training Management System**
-- Developed an online training management system for my bachelor's thesis. The full-stack application was written in Spring Boot and Angular using Java and TypeScript. The data was stored in a MySQL database.
+- Developed an online training management system for my bachelor's thesis. The full-stack web application was written in Spring Boot and Angular using Java and TypeScript. The data was stored in a MySQL database.
